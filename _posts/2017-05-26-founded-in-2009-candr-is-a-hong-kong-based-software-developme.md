@@ -4,8 +4,8 @@ description: >-
   Founded in 2009, C&R is a Hong Kong based software development company. We
   specialise in the design and development of next-generation technology
   solutions in mobile, tablet and web.
-dateModified: '2017-05-26T16:39:46.969Z'
-datePublished: '2017-05-26T16:39:51.028Z'
+dateModified: '2017-05-26T16:47:54.973Z'
+datePublished: '2017-05-26T16:47:55.218Z'
 title: About C&R
 author: []
 publisher: {}
