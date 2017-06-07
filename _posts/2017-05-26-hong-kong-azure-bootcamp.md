@@ -32,8 +32,8 @@ app_links:
     id: '375990038'
 isBasedOnUrl: 'https://www.meetup.com/Hong-Kong-Azure-Bootcamp/'
 title: Hong Kong Azure Bootcamp
-datePublished: '2017-05-26T18:08:32.886Z'
-dateModified: '2017-05-26T18:08:32.630Z'
+datePublished: '2017-05-26T16:41:01.217Z'
+dateModified: '2017-05-26T16:41:00.986Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-26-hong-kong-azure-bootcamp.md
