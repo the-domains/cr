@@ -3,20 +3,22 @@ inFeed: true
 description: >-
   We design the next-generation betting system UI which can manage large volume
   of transactions effectively thus facilitate business strong.
-dateModified: '2017-05-26T17:14:24.155Z'
-datePublished: '2017-05-26T17:14:56.367Z'
+dateModified: '2017-05-26T17:57:53.141Z'
+datePublished: '2017-05-26T17:57:54.252Z'
 title: Next-Generation Betting System
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: 'http://www.hkjc.com/english/press/images/liveaudio-mainvisual.jpg'
-sourcePath: _posts/2017-05-26-next-generation-betting-system.md
+isBasedOnUrl: 'http://www.hkjc.com'
 starred: false
-datePublishedOriginal: '2017-05-26T17:14:56.367Z'
+datePublishedOriginal: '2017-05-26T17:57:54.252Z'
+sourcePath: _posts/2017-05-26-next-generation-betting-system.md
 _type: MediaObject
 
 ---
 # Next-Generation Betting System
 
 We design the next-generation betting system UI which can manage large volume of transactions effectively thus facilitate business strong.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d07a16cd83b790e070cce660c5b07d902b31ec7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a806d4e7-2ddd-4917-a309-3cc510696086.jpg)
+
+<article style=""><p>The Hong Kong Jockey Club</p></article>
