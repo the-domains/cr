@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   Innovation needs a culture of trust and openness to flourish. In C&R, you can
   talk through and value your own ideas without hierarchy concerns. All staff
@@ -9,8 +9,8 @@ description: >-
   the day and any blockages and risks needing escalation. This allows
   identification of any course correction actions needed and for the team to
   offer assistance.
-dateModified: '2017-05-26T18:10:34.488Z'
-datePublished: '2017-05-26T18:10:42.929Z'
+dateModified: '2017-05-26T17:09:21.159Z'
+datePublished: '2017-05-26T17:09:21.360Z'
 title: Culture & Values
 author: []
 publisher: {}
@@ -18,9 +18,9 @@ via: {}
 hasPage: true
 sourcePath: _posts/2017-05-26-culture-and-values.md
 starred: false
-datePublishedOriginal: '2017-05-26T18:10:42.929Z'
+datePublishedOriginal: '2017-05-26T13:52:21.627Z'
 url: culture-and-values/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Culture & Values
