@@ -5,8 +5,8 @@ description: >-
   - Create and Realize. We create next-generation systems which perfectly fit
   our clients' and industry needs. We realize them by beautifully crafting user
   interface and designing extensible system architecture.
-dateModified: '2017-05-26T16:44:14.387Z'
-datePublished: '2017-05-26T16:44:14.778Z'
+dateModified: '2017-05-26T16:47:54.973Z'
+datePublished: '2017-05-26T16:47:55.219Z'
 title: ''
 author: []
 publisher: {}
