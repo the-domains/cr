@@ -12,8 +12,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.hongkongairport.com/'
 title: Airport and Passenger Systems
-datePublished: '2017-05-26T17:58:17.416Z'
-dateModified: '2017-05-26T17:58:16.980Z'
+datePublished: '2017-05-26T16:44:14.778Z'
+dateModified: '2017-05-26T16:44:14.387Z'
 via: {}
 inFeed: true
 sourcePath: >-
