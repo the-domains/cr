@@ -3,15 +3,15 @@ inFeed: true
 description: >-
   To grasp the business opportunity in the fast-growing industry, our client
   innovatively adopts e-commerce system in the selling process.
-dateModified: '2017-05-26T17:35:18.206Z'
-datePublished: '2017-05-26T17:35:47.360Z'
+dateModified: '2017-05-26T16:59:36.392Z'
+datePublished: '2017-05-26T17:00:43.031Z'
 title: E-Commerce System
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-05-26-e-commerce-system.md
 starred: false
-datePublishedOriginal: '2017-05-26T17:35:47.360Z'
+datePublishedOriginal: '2017-05-26T17:00:43.031Z'
 _type: Blurb
 
 ---
