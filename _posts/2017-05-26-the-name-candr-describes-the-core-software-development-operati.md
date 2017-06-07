@@ -5,16 +5,16 @@ description: >-
   - Create and Realize. We create next-generation systems which perfectly fit
   our clients' and industry needs. We realize them by beautifully crafting user
   interface and designing extensible system architecture.
-dateModified: '2017-05-26T16:41:00.986Z'
-datePublished: '2017-05-26T16:41:01.218Z'
+dateModified: '2017-05-26T16:38:10.667Z'
+datePublished: '2017-05-26T16:38:11.488Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-sourcePath: >-
-  _posts/2017-05-26-the-name-candr-describes-the-core-software-development-operati.md
 starred: false
 datePublishedOriginal: '2017-05-26T16:38:11.488Z'
+sourcePath: >-
+  _posts/2017-05-26-the-name-candr-describes-the-core-software-development-operati.md
 _type: Blurb
 
 ---
