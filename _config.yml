@@ -1,0 +1,86 @@
+layout_spectrum: 0.13940496674831035
+typography_spectrum: 0.5395061764540612
+color:
+  lightness: 0.17222101817506894
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  saturation: 0.5365037000066795
+  brandStrength: 0.0009320854038774672
+  rhythmicContrast: 0.324492904105694
+name: C&R
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:findus@candrholdings.com'
+    label: Contact us
+  - type: external
+    url: 'https://crholdingslimited.bamboohr.com/jobs/'
+    label: Join us
+github: true
+description: C&R builds software system since 2008.
+author:
+  name: C&R Holdings Limited
+  url: 'https://www.candrholdings.com'
+  email: findus@candrholdings.com
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a04a9ad3-438d-4878-a93f-35d54cdc6f4f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a04a9ad3-438d-4878-a93f-35d54cdc6f4f.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - name: About C&R
+    id: cacb9145-d4c5-403c-ba03-431763861d36
+    type: content
+  - name: Culture & Values
+    id: c3df834d-95e4-4176-b76d-23c29ff87334
+    type: content
+content_rating:
+  adult: false
+opengraph: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/17fa7d71-102e-4c7c-a5aa-6481f3e11543.png
+title: Create & Realize Amazing Software System
+url: 'https://www.candrholdings.com/'
