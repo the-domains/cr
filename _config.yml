@@ -71,11 +71,11 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - name: About C&R
-    id: cacb9145-d4c5-403c-ba03-431763861d36
+  - id: cacb9145-d4c5-403c-ba03-431763861d36
+    name: About C&R
     type: content
-  - name: Culture & Values
-    id: c3df834d-95e4-4176-b76d-23c29ff87334
+  - id: c3df834d-95e4-4176-b76d-23c29ff87334
+    name: Culture & Values
     type: content
 content_rating:
   adult: false
@@ -83,4 +83,3 @@ opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/17fa7d71-102e-4c7c-a5aa-6481f3e11543.png
 title: Create & Realize Amazing Software System
-url: 'https://www.candrholdings.com/'
