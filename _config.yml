@@ -17,13 +17,13 @@ purpose:
   - type: contact
     url: 'mailto:findus@candrholdings.com'
     label: Contact us
-  - type: external
-    url: 'https://crholdingslimited.bamboohr.com/jobs/'
+  - type: internal
     label: Join us
+    item: c3df834d-95e4-4176-b76d-23c29ff87334
 github: true
 description: C&R builds software system since 2008.
 author:
-  name: C&R Holdings Limited
+  name: Copyright 2017 C&R.  All rights reserved.
   url: 'https://www.candrholdings.com'
   email: findus@candrholdings.com
 colors:
