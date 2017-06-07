@@ -1,29 +1,16 @@
-layout_spectrum: 0.13940496674831035
-typography_spectrum: 0.5395061764540612
-color:
-  lightness: 0.17222101817506894
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  saturation: 0.5365037000066795
-  brandStrength: 0.0009320854038774672
-  rhythmicContrast: 0.324492904105694
 name: C&R
 analytics: {}
 purpose:
   - type: contact
     url: 'mailto:findus@candrholdings.com'
     label: Contact us
-  - type: internal
+  - type: external
+    url: 'https://crholdingslimited.bamboohr.com/jobs/'
     label: Join us
-    item: c3df834d-95e4-4176-b76d-23c29ff87334
 github: true
 description: C&R builds software system since 2008.
 author:
-  name: Copyright 2017 C&R.  All rights reserved.
+  name: C&R Holdings Limited
   url: 'https://www.candrholdings.com'
   email: findus@candrholdings.com
 colors:
@@ -71,16 +58,28 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - name: About C&R
-    id: cacb9145-d4c5-403c-ba03-431763861d36
+  - id: cacb9145-d4c5-403c-ba03-431763861d36
+    name: About C&R
     type: content
-  - name: Culture & Values
-    id: c3df834d-95e4-4176-b76d-23c29ff87334
+  - id: c3df834d-95e4-4176-b76d-23c29ff87334
+    name: Culture & Values
     type: content
+layout_spectrum: 0.2861934046322794
+color:
+  lightness: 0.42834109162045
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.2785926578209579
+  brandStrength: 0.6514016876379858
+  rhythmicContrast: 0.2889839162180514
 content_rating:
   adult: false
+typography_spectrum: 0.1846324475165825
 opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/17fa7d71-102e-4c7c-a5aa-6481f3e11543.png
 title: Create & Realize Amazing Software System
-url: 'https://thegrid.ai/cr/'
