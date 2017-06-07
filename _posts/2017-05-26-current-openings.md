@@ -5,8 +5,8 @@ description: >-
   environment with a high caliber team of software developers for nurturing your
   great ideas in commercial world. Your passion and dedication will be
   rewarding.
-dateModified: '2017-05-26T18:08:32.630Z'
-datePublished: '2017-05-26T18:08:32.884Z'
+dateModified: '2017-05-26T18:12:37.156Z'
+datePublished: '2017-05-26T18:17:44.756Z'
 title: Be One of Us
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ via: {}
 isBasedOnUrl: 'https://crholdingslimited.bamboohr.com/jobs/'
 sourcePath: _posts/2017-05-26-current-openings.md
 starred: false
-datePublishedOriginal: '2017-05-26T16:33:14.106Z'
+datePublishedOriginal: '2017-05-26T18:17:44.756Z'
 _type: MediaObject
 
 ---
